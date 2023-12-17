@@ -1,5 +1,9 @@
-viual studio
+#include<iostream>
+using namespace std;
 
-lets try to change something on it 
-
-made changes my mistake
+int main(){
+	publi int sum(int x,int y)
+	{
+		return x+y;
+	}
+}
