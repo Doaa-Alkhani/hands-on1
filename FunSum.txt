@@ -2,8 +2,9 @@
 using namespace std;
 
 int main(){
-	publi int sum(int x,int y,int z,int l)
+	publi int sum(int x,,int z,int l,int q)
 	{
-		return x+y+z+l;
+		return x+q+z+l;
+		cout<<"hello";
 	}
 }
