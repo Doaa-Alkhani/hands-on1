@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+	publi int sum(int x,int y,int z,int l)
+	{
+		return x+y+z+l;
+	}
+}
